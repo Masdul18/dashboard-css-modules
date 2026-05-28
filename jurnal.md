@@ -38,35 +38,35 @@
 
 **Prompt 2 (Fokus pada UI / Routing):**
 
-> 
+> "kerjakan semua yang ada di agent.md"
 
 
 **Hasil Evaluasi Prompt:***Apakah AI langsung memberikan kode yang benar? Atau kamu harus mengoreksi prompt tersebut? Jelaskan.*
 
-> [Tulis jawabanmu di sini...]
+> oke langsung nurut
 > 
 
 ---
 
-## ðŸ› 3. Log Problem Solving
+## 3. Log Problem Solving
 
 *Programmer sejati belajar dari error warna merah. Ceritakan minimal 1 masalah/bug paling menantang yang kamu temui selama satu pekan ini.*
 
 - **Deskripsi Error / Bug:** *Contoh: Data pesan di form kontak hilang saat halaman di-refresh.*
     
-    > [Jelaskan masalahmu...]
+    > typo dengan kode
     > 
 - **Langkah Investigasi:** *Bagaimana cara kamu mencari tahu letak kesalahannya? (Apakah pakai console.log?)*
     
-    > [Jelaskan caramu menganalisis...]
+    > dengan mencari apa yang salah , lalu di inspect di dalam web nya
     > 
 - **Kolaborasi dengan AI:** *Bagaimana kamu mengarahkan AI untuk membantu mencari solusi?*
     
-    > [Tulis instruksi perbaikan yang kamu berikan ke AI...]
+    > belum ada, karena saya baru baru ini memakai Ai
     > 
 - **Solusi Akhir:** *Jelaskan secara singkat logika pemecahan masalahnya (jangan sekadar copy-paste kode).*
     
-    > [Jelaskan logikanya, misal: "Ternyata saya harus menggunakan `useEffect` untuk memanggil data dari `localStorage` saat komponen pertama kali dimuat."]
+    > ternyata saya harus lebih teliti lagi jika ingin melakukan sesuatu
     > 
 
 ---
@@ -75,5 +75,5 @@
 
 *Setelah 1 pekan mengerjakan proyek ini dengan metode Vibecoding, pelajaran berharga apa yang kamu dapatkan tentang peran manusia sebagai 'Arsitek' dibandingkan AI sebagai 'Asisten Pengetik'?*
 
-> [Tulis refleksimu di sini...]
+> manusia mempunyai jiwa, entah apa yang dipikirkan dalam fiksi barat yang mana Ai itu menghancurkan manusia, contohnya kayak contoh fiksi I Have No Mouth, and I Must Scream, 
 >
