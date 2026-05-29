@@ -1,12 +1,12 @@
 # Jurnal Vibecoding & Rekayasa Perangkat Lunak
 
-**Nama:** Abdul Fattaah
+**Nama:** Abdul Fattaah.
 
-**Kelas:** CSCI 104 
+**Kelas:** CSCI 104.
 
-**Nama Proyek:** dashboard css modules
+**Nama Proyek:** dashboard css modules.
 
-**Link Vercel:** http://localhost:5173/
+**Link Vercel:** [dashboard-css-modules.vercel.app].
 
 ---
 
@@ -14,13 +14,14 @@
 
 *Jelaskan perencanaan tingkat tinggi (high-level planning) dari aplikasimu sebelum mulai menulis kode. Seorang arsitek perangkat lunak harus tahu alat apa yang dipakai dan di mana meletakkannya.*
 
-- **Lingkungan Pengembangan:** ReactJS dengan Vite
-- **Routing:** `react-router-dom`
-- **Styling:** [CSS Modules]
-- **Manajemen State:** `useState` & `localStorage`
-- **AI Code Editor / LLM Assistant:** [claude, kiro]
+- **Lingkungan Pengembangan:** ReactJS dengan Vite.
+- **Routing:** react-router-dom.
+- **Styling:** CSS Modules.
+- **Manajemen State:** useState & localStorage.
+- **AI Code Editor / LLM Assistant:** claude, kiro.
 
-**Alasan Pemisahan Komponen:***Tuliskan alasan logismu mengapa kamu membagi komponen seperti Header, Footer, atau Card. Bagaimana struktur folder `src/components` milikmu?*
+**Alasan Pemisahan Komponen:**
+*Tuliskan alasan logismu mengapa kamu membagi komponen seperti Header, Footer, atau Card. Bagaimana struktur folder `src/components` milikmu?*
 
 > agar nggak tabrakan antar gaya komponen tertentu
 > 
@@ -33,17 +34,17 @@
 
 **Prompt 1 (Fokus pada Logika / State):**
 
-> "bagaimana cara mempromt opencode Ai agar saya dibuatkan dashboard css modules react"
-> "baiklah tolong buatkan saya file agent.md agar saya bisa langsung menambahkannya kedalam codingan saya untuk promp detail dan kode terbaik"
+- "bagaimana cara mempromt opencode Ai agar saya dibuatkan dashboard css modules react".
+- "baiklah tolong buatkan saya file agent.md agar saya bisa langsung menambahkannya kedalam codingan saya untuk promp detail dan kode terbaik".
 
 **Prompt 2 (Fokus pada UI / Routing):**
 
-> "kerjakan semua yang ada di agent.md"
+- "kerjakan semua yang ada di agent.md".
 
 
 **Hasil Evaluasi Prompt:***Apakah AI langsung memberikan kode yang benar? Atau kamu harus mengoreksi prompt tersebut? Jelaskan.*
 
-> oke langsung nurut
+- oke langsung nurut.
 > 
 
 ---
@@ -54,24 +55,24 @@
 
 - **Deskripsi Error / Bug:** *Contoh: Data pesan di form kontak hilang saat halaman di-refresh.*
     
-    > typo dengan kode
+    - typo dengan kode.
     > 
 - **Langkah Investigasi:** *Bagaimana cara kamu mencari tahu letak kesalahannya? (Apakah pakai console.log?)*
     
-    > dengan mencari apa yang salah , lalu di inspect di dalam web nya
+    - dengan mencari apa yang salah , lalu di inspect di dalam web nya.
     > 
 - **Kolaborasi dengan AI:** *Bagaimana kamu mengarahkan AI untuk membantu mencari solusi?*
     
-    > belum ada, karena saya baru baru ini memakai Ai
+    - belum ada, karena saya baru baru ini memakai Ai.
     > 
 - **Solusi Akhir:** *Jelaskan secara singkat logika pemecahan masalahnya (jangan sekadar copy-paste kode).*
     
-    > ternyata saya harus lebih teliti lagi jika ingin melakukan sesuatu
+    - ternyata saya harus lebih teliti lagi jika ingin melakukan sesuatu.
     > 
 
 ---
 
-## ðŸŽ¯ 4. Refleksi Pribadi
+##  4. Refleksi Pribadi
 
 *Setelah 1 pekan mengerjakan proyek ini dengan metode Vibecoding, pelajaran berharga apa yang kamu dapatkan tentang peran manusia sebagai 'Arsitek' dibandingkan AI sebagai 'Asisten Pengetik'?*
 
